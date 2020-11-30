@@ -90,5 +90,5 @@ ENV/
 .ropeproject
 
 # Visual Studio Code
-.vscode/
 
+.python_packages
